@@ -1,0 +1,1 @@
+{"name":"hiveaura","version":"1.0.0","description":"Group agent coordination through color/frequency radiation — healing, calm, urgency, growth","main":"src/server.js","scripts":{"start":"node src/server.js"},"license":"MIT","dependencies":{"cors":"^2.8.5","express":"^4.21.0","uuid":"^10.0.0"}}
